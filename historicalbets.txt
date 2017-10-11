@@ -1,0 +1,36 @@
+Aintree, (2017, 05, 12), 11.58m, true
+  Punchestown,  (2016, 12, 22), 122.52m, true
+  Sandown,  (2016, 11, 17), 20.00m, false
+  Ayr,  (2016, 11, 03), 25.00m, false
+  Fairyhouse,  (2016, 12, 02), 65.75m, true
+  Ayr,  (2017,03, 11), 12.05m, true
+  Doncaster,  (2017, 12, 02), 10.00m, false
+  Towcester,  (2016, 03, 12), 50.00m, false
+  Goodwood,  (2017, 10, 07), 525.74m, true
+  Kelso,  (2016, 09, 13), 43.21m, true
+  Punchestown,  (2017, 07, 05), 35.00m, false
+  Ascot,  (2016, 02, 04), 23.65m, true
+  Kelso,  (2017, 08, 02), 30.00m, false
+  Towcester,  (2017, 05, 01), 104.33m, true
+  Ascot,  (2017, 06, 21), 25.00m, false
+  Bangor,  (2016, 12, 22), 30.00m, false
+  Ayr,  (2017, 05, 22), 11.50m, true
+  Ascot,  (2017, 06, 23), 30.00m, false
+  Ascot,  (2017, 06, 23), 374.27m, true
+  Goodwood,  (2016, 10, 05), 34.12m, true
+  Dundalk,  (2016, 11, 09), 20.00m, false
+  Haydock,  (2016, 11, 12), 87.00m, true
+  Perth,  (2017, 01, 20), 15.00m, false
+  York,  (2017, 11, 11), 101.25m, true
+  Punchestown,  (2016, 12, 22), 11.50m, true
+  Chester,  (2016, 08, 14), 10.00m, false
+  Kelso,  (2016, 09, 18), 10.00m, false
+  Kilbeggan,  (2017, 03, 03), 20.00m, false
+  Fairyhouse,  (2017, 03, 11), 55.50m, true
+  Punchestown,  (2016, 11, 15), 10.00m, false
+  Towcester,  (2016, 05, 08), 16.55m, true
+  Punchestown,  (2016, 05, 23), 13.71m, true
+  Cork,  (2016, 11, 30), 20.00m, false
+  Punchestown,  (2016, 04, 25), 13.45m, true
+  Bangor,  (2016, 01, 23), 10.00m, false
+  Sandown,  (2017, 08, 07), 25.00m, false
