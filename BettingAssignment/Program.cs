@@ -34,7 +34,7 @@ namespace BettingAssignment
          * I also have 'showing' methods that write to console rather than using lots of Console.WriteLine 
          * in the menu, and I apologise if this isn't correct.
          * 
-         * Also, since there doesn't seem to be any way of indicating it otherwise, I was granted an assignment
+         * Also, since there doesn't seem to be any way of indicating it otherwise, I was granted an extension
          * by yourself and Shazia, thanks again for that.
          */ 
 
